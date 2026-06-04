@@ -19,11 +19,11 @@ Top 25 most common SQL Server Engine Errors</a>
 <a href=https://techcommunity.microsoft.com/t5/sql-server-support-blog/what-is-causing-the-always-on-ag-issue-is-it-cluster-ad-dns-or/ba-p/3781656>What is causing the Always On AG issue? Is it cluster, AD, DNS, or SQL?</a>
 <br>
 <br>
-<a href=https://www.techmixing.com/2025/11/10-essential-sql-server-scripts-every-dba-must-have-for-performance-troubleshooting.html>10 Ennsential SQL Server Scripts Every DBA Must Have for Performance Troubleshooting</a>
+<a href=https://www.techmixing.com/2025/11/10-essential-sql-server-scripts-every-dba-must-have-for-performance-troubleshooting.html>10 Essential SQL Server Scripts Every DBA Must Have for Performance Troubleshooting</a>
 <br>
 <br>
 <a href=https://dev.to/mashrulhaque/how-to-read-sql-server-execution-plans-7-things-that-matter-3pnm>How to Read SQL Server Execution Plans: 7 Things That Matter </a>
 <br>
 <br>
-<a href=https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/developing-modifications-that-survive-concurrency>Developing Modifications that Survice Concurrency</a>
+<a href=https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/developing-modifications-that-survive-concurrency>Developing Modifications that Survive Concurrency</a>
 
