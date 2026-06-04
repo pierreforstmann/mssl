@@ -17,3 +17,6 @@ Top 25 most common SQL Server Engine Errors</a>
 <br>
 <br>
 <a href=https://techcommunity.microsoft.com/t5/sql-server-support-blog/what-is-causing-the-always-on-ag-issue-is-it-cluster-ad-dns-or/ba-p/3781656>What is causing the Always On AG issue? Is it cluster, AD, DNS, or SQL?</a>
+<br>
+<br>
+<a href=https://dev.to/mashrulhaque/how-to-read-sql-server-execution-plans-7-things-that-matter-3pnm>How to Read SQL Server Execution Plans: 7 Things That Matter </a>
